@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSON Parsing</string>
+    <string name="connecting">"Connecting internet, please wait..."</string>
+</resources>
